@@ -1,8 +1,13 @@
 <div align="center">
   <h2> Hi there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, Welcome to my GitHub Profile !! </h2>
+  <span>
   <a href="https://www.linkedin.com/in/lakshya-luv-mimani/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
+  <a href="http://winpower21.github.io/resume/" target="_blank">
+    <img src=https://img.shields.io/badge/Resume-%2300acee.svg?color=8A2BE2&style=for-the-badge& style="margin-bottom: 5px;" />
+  </a>
+  </span>
   <br />
   I am a data science student and love learning new tech and exploring new tools.
 </div>
